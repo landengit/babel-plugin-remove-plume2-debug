@@ -1,11 +1,15 @@
 {
   "name": "babel-plugin-remove-plume2-debug",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "babel-plugin-remove-plume2-debug",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landengit/babel-plugin-remove-plume2-debug"
+  },
+  "author": "landen",
   "license": "ISC"
 }
